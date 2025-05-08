@@ -1,5 +1,5 @@
 # Styles.csv for `AUTOMATIC1111/stable-diffusion-webui`
-Welcome to my `styles.csv` project for Stable Diffusion! This is a personal initiative where I curate and maintain a comprehensive list of styles to enhance your creative workflows. The file is a work in progress, and I am continuously updating it to ensure it remains relevant and useful. Stay tuned for future improvements and additions as I refine this resource over time.
+Welcome to my `styles.csv` project for Stable Diffusion! This is a personal initiative where I curate and maintain a comprehensive list of styles to enhance your creative workflows. The file is currently in work in progress, and I am continuously updating it to ensure it remains relevant and useful. Stay tuned for future improvements and additions as I refine this resource over time.
 
 ## ⚠️ Warning!
 This file is specifically designed for Stable Diffusion 1.5 (SD1.5). I am not responsible for any issues or incompatibilities that may arise when using it with other Stable Diffusion models.
