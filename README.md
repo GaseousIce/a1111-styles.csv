@@ -10,7 +10,7 @@ PS: I was tired of relying on styles.csv files created by others. While they wor
 ### Step-by-Step Installation Guide
 
 1. **Download the File**  
-    Click [here](https://github.com/GaseousIce/styles.csv/blob/main/styles.csv) to download the latest version (might not be stable) of `styles.csv`. Save it to a location on your computer where you can easily find it.
+    Click [here](/styles.csv) to download the latest version (might not be stable) of `styles.csv`. Save it to a location on your computer where you can easily find it.
 
 2. **Locate Your Stable Diffusion Folder**  
     Find the folder where your Stable Diffusion installation is located. This is typically the folder where you run the Stable Diffusion software.
@@ -26,3 +26,8 @@ PS: I was tired of relying on styles.csv files created by others. While they wor
     Open the Stable Diffusion interface, and you should now see the styles from `styles.csv` available for use. Simply select a style and start creating!
 
 If you encounter any issues, feel free to reach out for support.
+
+## Other Collections (Not Created by Me)
+If you need a quick, ready-to-use CSV file as an alternative to my curated version, here are some options I found online with minor adjustments. While they may not be as polished, they can serve as a temporary solution while I continue improving my detailed `styles.csv`.
+- Extensive Style Collection: [ref.csv](src/csv/ref.csv)
+- AI generated and merged version: [test.csv](src/csv/test.csv)
