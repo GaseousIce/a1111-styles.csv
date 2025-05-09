@@ -31,3 +31,12 @@ If you encounter any issues, feel free to reach out for support.
 If you need a quick, ready-to-use CSV file as an alternative to my curated version, here are some options I found online with minor adjustments. While they may not be as polished, they can serve as a temporary solution while I continue improving my detailed `styles.csv`.
 - Extensive Style Collection: [ref.csv](src/csv/ref.csv)
 - AI generated and merged version: [test.csv](src/csv/test.csv)
+
+### How to Use My Collection
+1. Download the CSV file you want to use.
+
+2. Rename the file to `styles.csv`.
+
+3. Place it in the parent directory of your `AUTOMATIC1111/stable-diffusion-webui` installation.
+
+4. Refresh the styles in the WebUI and enjoy!
