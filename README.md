@@ -18,11 +18,15 @@ PS: I was tired of relying on styles.csv files created by others. While they wor
 3. **Copy the File**  
     Move the downloaded `styles.csv` file into the appropriate directory within your Stable Diffusion folder. Usually, this will be the parent directory, where the `AUTOMATIC1111/stable-diffusion-webui` is installed.
 
-4. **Refresh Styles**  
+4. **Install Lora (Optional)**  
+    Install the LORAs and other files, for the best efefcts
+    Could be found in 
+
+5. **Refresh Styles**  
     In the Stable Diffusion WebUI, go to the style selector drop down. There must be a pen icon (or something like that), click on it, the Styles menu would appear and on the Styles menu, just click on the refresh button to refresh your styles.
     ![Styles Refresh Example](src/images/refresh-styles.png)
 
-5. **Select a Style**  
+6. **Select a Style**  
     Open the Stable Diffusion interface, and you should now see the styles from `styles.csv` available for use. Simply select a style and start creating!
 
 If you encounter any issues, feel free to reach out for support.
