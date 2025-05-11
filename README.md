@@ -1,4 +1,12 @@
 # Styles.csv for `AUTOMATIC1111/stable-diffusion-webui`
+
+## 📖 Table of Contents
+- [⚠️ Warning!](#️-warning)
+- [🚀 Installation and Usage](#-installation-and-usage)
+- [Other Collections (Not Created by Me)](#other-collections-not-created-by-me)
+    - [How to Use My Collection](#how-to-use-my-collection)
+- [Other Files](#other-files)
+
 Welcome to my `styles.csv` project for Stable Diffusion! This is a personal initiative where I curate and maintain a comprehensive list of styles to enhance your creative workflows. The file is currently in work in progress, and I am continuously updating it to ensure it remains relevant and useful. Stay tuned for future improvements and additions as I refine this resource over time.
 
 ## ⚠️ Warning!
@@ -44,3 +52,7 @@ If you need a quick, ready-to-use CSV file as an alternative to my curated versi
 3. Place it in the parent directory of your `AUTOMATIC1111/stable-diffusion-webui` installation.
 
 4. Refresh the styles in the WebUI and enjoy!
+
+## Other Files
+As you may have noticed, some prompts include LorAs and textual inversion embeddings. To download these, please visit [dependencies.md](src/pages/dependencies.md).  
+They aren't exactly dependencies, but you get the idea.
